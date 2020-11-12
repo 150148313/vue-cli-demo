@@ -1,10 +1,10 @@
 # hello-world
-2222223333
+222222
 ## Project setup
 ```
 yarn install
 ```
-22222333332
+222222
 ### Compiles and hot-reloads for development
 ```
 yarn serve:
