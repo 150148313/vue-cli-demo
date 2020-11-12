@@ -15,7 +15,7 @@ asdasdasd
 yarn build
 ```
 asdasdasd
-### Lints and fixes files
+### Lints and fixes files:
 ```
 yarn lint
 ```
