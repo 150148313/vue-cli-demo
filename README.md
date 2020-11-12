@@ -1,20 +1,20 @@
 # hello-world
-1111111111111112222222222
+111111111111111
 ## Project setup
 ```
 yarn install
 ```
-11111111111111111111222222222
+11111111111111111111
 ### Compiles and hot-reloads for development
 ```
 yarn serve:
 ```
-1111111111111111111111222222222
+1111111111111111111111
 ### Compiles and minifies for production
 ```
 yarn build:
 ```
-11111111111111111111111112222222222222
+1111111111111111111111111
 ### Lints and fixes files:
 ```
 yarn lint
